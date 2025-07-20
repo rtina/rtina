@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/rtina/rtina/main/Computer%20Engineer.png" alt="Tina Rathod - Computer Science Engineer" width="100%">
 <h1 align="center">Hi 👋, I'm Tina Rathod</h1>
 <h3 align="center">A passionate full stack Developer from India</h3>
 
