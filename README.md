@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtina&label=Profile%20views&color=0e75b6&style=flat" alt="rtina" /> </p>
 
-- 🌱 I’m currently learning **React.js , tailwind and further exploring**
+- 🌱 I’m currently learning **React.js , tailwind and further exploring new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
