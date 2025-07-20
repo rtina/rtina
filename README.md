@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tina Rathod</h1>
 <h3 align="center">A passionate full stack Developer from India</h3>
 
-<img align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
+<img align= "right" alt="coding" width="400" src="[https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif](https://media.tenor.com/E73aHdNnj2AAAAAM/yoriko-nikaidou.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtina&label=Profile%20views&color=0e75b6&style=flat" alt="rtina" /> </p>
 
